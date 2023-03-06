@@ -6,10 +6,9 @@
 
   This is a great [getting started article](https://blog.logseq.com/how-to-get-started-with-networked-thinking-and-logseq/)  or
 
-  **Intro Material**
+  **Intro Material*
 
-
-  * [Onboarding: Learn the fundamentals of Logseq in 70 minutes](https://hub.logseq.com/getting-started/uQdEHALJo7RWnDLLLP7uux/onboarding-learn-the-fundamentals-of-logseq-in-70-minutes/iPUPLPx7dZgPuASHtqNu2m "https://hub.logseq.com/getting-started/uqdehaljo7rwndlllp7uux/onboarding-learn-the-fundamentals-of-logseq-in-70-minutes/ipuplpx7dzgpuashtqnu2m")
+  * [Onboarding: Learn the fundamentals of Logseq in 70 minutes](https://hub.logseq.com/getting-started/uQdEHALJo7RWnDLLLP7uux/onboarding-learn-the-fundamentals-of-logseq-in-70-minutes/iPUPLPx7dZgPuASHtqNu2m)
   * Learn by example: download an example graph [GitHub - BangBOOM/logseq_learn_eng](https://github.com/BangBOOM/logseq_learn_eng)
 
   Plugins
