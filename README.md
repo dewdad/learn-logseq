@@ -56,8 +56,4 @@ These are integrations that are officially supported by the third party:
 * [SamePage](https://samepage.network/docs/logseq/install) - Provides Logseq plugin to sync your graph with SamePage notebooks
 * [Snipd](https://hub.logseq.com/integrations/aV9AgETypcPcf8avYcHXQT/feed-your-logseq-graph-using-snipd-podcast-notes/3U63PohVXL24PvbvXUzf2b) - Mobile app that exports Snipd podcast notes to Logseq
 * [Omnivore](https://github.com/omnivore-app/logseq-omnivore) - Provides Logseq plugin to fetch Omnivore articles and highlights
-* [NeuraCache](https://neuracache.com/) - Mobile app that provides additional flashcard and spaced repetition functionality on Logseq graphs
-
-An intro tgse
-* [Snipd](https://hub.logseq.com/integrations/aV9AgETypcPcf8avYcHXQT/feed-your-logseq-graph-using-snipd-podcast-notes/3U63PohVXL24PvbvXUzf2b) - Mobile app that exports Snipd podcast notes tos
-* [Snipd](https://hub.logseq.com/integrations/aV9AgETypcPcf8avYcHXQT/feed-your-logseq-graph-using-snipd-podcast-notes/3U63PohVXL24PvbvXUzf2b) - Mobile app that exports Snipd podcast notes to Logseq
+* [NeuraCache](https://neuracache.com/) - Mobile app that provides additional flashcard and spaced repetition functionality on Logseq graph
